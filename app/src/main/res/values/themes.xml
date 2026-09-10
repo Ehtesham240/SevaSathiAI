@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.SevaSathiAI" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
